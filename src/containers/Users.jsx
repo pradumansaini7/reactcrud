@@ -16,9 +16,8 @@ export default function Users() {
         setLoading(false);
       });
   }, []);
-
   const deleteUser = (userId) => {
-    console.log(userId);
+    // console.log(userId);
     fetch(`http://localhost:3000/users/${userId}`, {
       method: "Delete",
     })
