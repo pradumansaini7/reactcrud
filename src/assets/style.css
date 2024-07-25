@@ -1,0 +1,19 @@
+.loader-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    align-items: center;
+  }
+  .btn-info{
+    margin-right: 10px;
+    
+  }
+  body{
+    background-image: url(https://media.istockphoto.com/id/1159397218/photo/summer-beach-and-sea-with-clear-sky-background.webp?b=1&s=170667a&w=0&k=20&c=NNbBXFsysgGRq48CJb0j6rpS96g-p_FvO0M8UDbQV84=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+  }
+  
+  
